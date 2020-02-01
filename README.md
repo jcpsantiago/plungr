@@ -19,6 +19,14 @@ Building your API as a package has some benefits:
 * Easier integration with CI/CD services like Travis or Jenkins
 * Functions are reusable outside of the API project
 
+## Using plungr
+
+Install the development version of `plungr` with:
+```r
+# install.packages("remotes")
+remotes::install_github("ozean12/plungr")
+```
+
 ## Acknowledgments
 
 Plungr wouldn't exist without the original efforts of the [golem](https://github.com/ThinkR-open/golem) package.
