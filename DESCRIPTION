@@ -1,0 +1,20 @@
+Package: plungr
+Title: Opinionated Framework for Developing Plumber APIs
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Joao",
+           family = "Santiago",
+           role = c("aut", "cre"),
+           email = "santiago@billie.io")
+Description: Plungr lets you create Plumber APIs as packages, with unit tests,
+  documented functions.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    fs,
+    rstudioapi,
+    cli
+RoxygenNote: 7.0.1
+Suggests: 
+    covr

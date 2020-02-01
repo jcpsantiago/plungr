@@ -1,0 +1,4 @@
+Binding: create_plungr_gui
+Title: Plumber API package using plungr
+OpenFiles: inst/endpoints/plumber.R, R/*.R
+Icon: plungr.png
