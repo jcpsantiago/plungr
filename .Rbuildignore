@@ -4,3 +4,6 @@
 ^codecov\.yml$
 ^CODE_OF_CONDUCT\.md$
 README.html
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
