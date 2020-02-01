@@ -13,7 +13,6 @@ create_plungr <- function(path,
                           check_name = TRUE,
                           open = TRUE,
                           package_name = basename(path)) {
-  
   if (path == "." & package_name == fs::path_file(path)) {
     package_name <- fs::path_file(getwd())
   }
@@ -40,9 +39,11 @@ create_plungr <- function(path,
   cat_green_tick("Created package directory")
 
   cli::cat_rule("Copying package skeleton")
-  from <- system.file("plumberexample", package = "plungr", 
-                      lib.loc = NULL, mustWork = FALSE)
-  
+  from <- system.file("plumberexample",
+    package = "plungr",
+    lib.loc = NULL, mustWork = FALSE
+  )
+
   ll <- list.files(
     path = from,
     full.names = TRUE,

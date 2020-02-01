@@ -8,7 +8,7 @@ Authors@R:
            email = "santiago@billie.io")
 Description: Plungr lets you create Plumber APIs as packages, with unit tests,
   documented functions.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
