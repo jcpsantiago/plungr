@@ -9,7 +9,7 @@
 
 # plungr 
 
-`plungr` (/ˈplʌn(d)ʒə/) is an opinionated RStudio project template for 
+`plungr` (ˈplʌn(d)ʒə) is an opinionated RStudio project template for 
 building [Plumber](https://github.com/rstudio/plumber) APIs as packages.
 
 Building your API as a package has some benefits:
