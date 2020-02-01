@@ -29,9 +29,9 @@ remotes::install_github("ozean12/plungr")
 
 ## Acknowledgments
 
-Plungr wouldn't exist without the original efforts of the [golem](https://github.com/ThinkR-open/golem) package.
+`plungr` wouldn't exist without the [golem](https://github.com/ThinkR-open/golem) package, which does an amazing job at packaging Shiny apps.
 
-@juliasilge wrote a [post](https://community.rstudio.com/t/plumber-api-and-package-structure/18099) on RStudio community that gave us the idea.
+The idea for this package came from a [post](https://community.rstudio.com/t/plumber-api-and-package-structure/18099) by Julia Silge on RStudio community.
 There you can find further information about the topic of packaging Plumber APIs.
 
 ## Contributing
