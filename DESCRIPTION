@@ -8,6 +8,9 @@ Authors@R: c(
 Description: Plungr lets you create Plumber APIs as packages, with unit tests,
   documented functions.
 License: MIT + file LICENSE
+BugReports: https://github.com/ozean12/plungr/issues
+URL: https://ozean12.github.io/plungr (site)
+    https://github.com/ozean12/plungr (dev)
 Encoding: UTF-8
 LazyData: true
 Imports: 
