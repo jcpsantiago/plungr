@@ -1,4 +1,4 @@
-<img src="man/figures/plungr.png" width="180px" align="right" style="margin-top:10px; margin-bottom:30px; margin-left:20px; clear:left;"/>
+<img src="man/figures/plungr.png" width="250px" align="right" style="margin-top:10px; margin-bottom:30px; margin-left:20px; clear:left;"/>
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
